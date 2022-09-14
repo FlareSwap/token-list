@@ -1,0 +1,36 @@
+{
+    "name": "Coston Tokens List",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/wsgb.png",
+    "timestamp": "2021-07-25 00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 16,
+            "address": "0x1659941d425224408c5679eeef606666c7991a8A",
+            "name": "Wrapped CostonFlare",
+            "symbol": "WCFLR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/wsgb.png"
+        },
+        {
+      "chainId": 16,
+      "address": "0xaF4773f5D7aE00CBC42E74AC1bE7763615d037C8",
+      "decimals": 18,
+      "name": "ALICE",
+      "symbol": "ALICE",
+      "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/alice.png"
+    },
+    {
+      "chainId": 16,
+      "address": "0x1C7Bd3c7A4119D4cCD6676C616f7c9f8Ce8eE05b",
+      "decimals": 18,
+      "name": "BOB",
+      "symbol": "BOB",
+      "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/bob.png"
+    }
+    ]
+}
