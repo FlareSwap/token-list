@@ -1,0 +1,36 @@
+{
+    "name": "Songbird Tokens List",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/wsgb.png",
+    "timestamp": "2021-07-25 00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 19,
+            "address": "0x02f0826ef6aD107Cfc861152B32B52fD11BaB9ED",
+            "name": "Wrapped CostonFlare",
+            "symbol": "WCFLR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/wsgb.png"
+        },
+        {
+      "chainId": 19,
+      "address": "0xD7565b16b65376e2Ddb6c71E7971c7185A7Ff3Ff",
+      "decimals": 18,
+      "name": "ORACLE",
+      "symbol": "ORACLE",
+      "logoURI": "https://dex.oracleswap.io/_next/static/media/ORACLE.93ef2661.png"
+    },
+    {
+      "chainId": 19,
+      "address": "0xC348F894d0E939FE72c467156E6d7DcbD6f16e21",
+      "decimals": 18,
+      "name": "EXFI",
+      "symbol": "EXFI",
+      "logoURI": "https://xfl.flr.finance/static/media/logo.95aa10b7.svg"
+    }
+    ]
+}
