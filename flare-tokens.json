@@ -1,0 +1,36 @@
+{
+    "name": "Flare Tokens List",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://raw.githubusercontent.com/blazeswap/default-lists/main/assets/FLR.svg",
+    "timestamp": "2021-07-25 00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 14,
+            "address": "0x1d80c49bbbcd1c0911346656b529df9e5c2f783d",
+            "name": "Wrapped Flare",
+            "symbol": "WFLR",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/blazeswap/default-lists/main/assets/FLR.svg"
+        },
+        {
+      "chainId": 14,
+      "address": "0xA620ef71cAf4A4E93A096d324E40866e381F1E57",
+      "decimals": 18,
+      "name": "SNOOOPY",
+      "symbol": "SNOOOPY",
+      "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/SNOOOPY.png"
+    },
+    {
+      "chainId": 14,
+      "address": "0xd34c6650d950c7c4927d43a6ec8193f2e75ec1c5",
+      "decimals": 18,
+      "name": "BET",
+      "symbol": "BET",
+      "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/SNOOOPY.png"
+    }
+    ]
+}
