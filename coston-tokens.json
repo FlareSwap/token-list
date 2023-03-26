@@ -10,7 +10,7 @@
     "tokens": [
         {
             "chainId": 16,
-            "address": "0x1659941d425224408c5679eeef606666c7991a8A",
+            "address": "0xC7F77c1C1C6771b20D998a7e148620B4426eD687",
             "name": "Wrapped CostonFlare",
             "symbol": "WCFLR",
             "decimals": 18,
@@ -18,7 +18,7 @@
         },
         {
       "chainId": 16,
-      "address": "0xaF4773f5D7aE00CBC42E74AC1bE7763615d037C8",
+      "address": "0xf36b4c002f31594e20bEe4474d41CF1cf74a280c",
       "decimals": 18,
       "name": "ALICE",
       "symbol": "ALICE",
@@ -26,7 +26,7 @@
     },
     {
       "chainId": 16,
-      "address": "0x1C7Bd3c7A4119D4cCD6676C616f7c9f8Ce8eE05b",
+      "address": "0x5cDF2F7E754a087916D9d30B39C9347ed4D352c9",
       "decimals": 18,
       "name": "BOB",
       "symbol": "BOB",
