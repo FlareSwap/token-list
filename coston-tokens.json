@@ -18,7 +18,7 @@
         },
         {
       "chainId": 16,
-      "address": "0x5bC51E23C52F4419cE520aA219d9995b324e5246",
+      "address": "0x9C012bFc1D6a833a6c6A04dE632fC525Bf4FD2b1",
       "decimals": 18,
       "name": "ALICE",
       "symbol": "ALICE",
@@ -26,7 +26,7 @@
     },
     {
       "chainId": 16,
-      "address": "0x1838E20DbCEd3BA8320E3feCc30dF3365FD7d6aA",
+      "address": "0x2A085D25de0E4e5e564E9bc203Cf37ac71F5A352",
       "decimals": 18,
       "name": "BOB",
       "symbol": "BOB",
