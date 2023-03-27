@@ -10,7 +10,7 @@
     "tokens": [
         {
             "chainId": 16,
-            "address": "0x767b25a658e8fc8ab6ebbd52043495db61b4ea91",
+            "address": "0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91",
             "name": "Wrapped CostonFlare",
             "symbol": "WCFLR",
             "decimals": 18,
@@ -18,18 +18,18 @@
         },
         {
       "chainId": 16,
-      "address": "0x9c012bfc1d6a833a6c6a04de632fc525bf4fd2b1",
+      "address": "0x653dcF869C45392684FCCC85C4EB914AAcCE4EdD",
       "decimals": 18,
-      "name": "ALICE",
-      "symbol": "ALICE",
+      "name": "ALICETOKEN",
+      "symbol": "ALICETOKEN",
       "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/alice.png"
     },
     {
       "chainId": 16,
-      "address": "0x2a085d25de0e4e5e564e9bc203cf37ac71f5a352",
+      "address": "0xedAC4AA2BA212F20c69db21b427b3c9446DFaDC1",
       "decimals": 18,
-      "name": "BOB",
-      "symbol": "BOB",
+      "name": "BOBTOKEN",
+      "symbol": "BOBTOKEN",
       "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/bob.png"
     }
     ]
