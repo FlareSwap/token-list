@@ -5,7 +5,7 @@
         "minor": 0,
         "patch": 0
     },
-    "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/wsgb.png",
+    "logoURI": "https://raw.githubusercontent.com/FlareSwap/assets/master/blockchains/coston/assets/0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91/cflr.png",
     "timestamp": "2021-07-25 00:00:00.000+00:00",
     "tokens": [
         {
@@ -14,7 +14,7 @@
             "name": "Wrapped CostonFlare",
             "symbol": "WCFLR",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/wsgb.png"
+            "logoURI": "https://raw.githubusercontent.com/FlareSwap/assets/master/blockchains/coston/assets/0x767b25A658E8FC8ab6eBbd52043495dB61b4ea91/wcflr.png"
         },
         {
       "chainId": 16,
@@ -22,7 +22,7 @@
       "decimals": 18,
       "name": "ALICETOKEN",
       "symbol": "ALICETOKEN",
-      "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/alice.png"
+      "logoURI": "https://raw.githubusercontent.com/FlareSwap/assets/master/blockchains/coston/assets/0x653dcF869C45392684FCCC85C4EB914AAcCE4EdD/logo.png"
     },
     {
       "chainId": 16,
@@ -30,7 +30,7 @@
       "decimals": 18,
       "name": "BOBTOKEN",
       "symbol": "BOBTOKEN",
-      "logoURI": "https://raw.githubusercontent.com/FlareSwap/logos/main/bob.png"
+      "logoURI": "https://raw.githubusercontent.com/FlareSwap/assets/master/blockchains/coston/assets/0xedAC4AA2BA212F20c69db21b427b3c9446DFaDC1/logo.png"
     }
     ]
 }
